@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: incorrectly calling a function that expects named parameters. The `bug.swift` file contains the erroneous code, while `bugSolution.swift` shows the correct way to call the function.
